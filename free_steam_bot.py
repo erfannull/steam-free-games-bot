@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler
 import time
 import os
 
-TOKEN = 'توکن_ربات_اینجا'
+TOKEN = '7684771448:AAHoZN7XEACNupV4RtCcW31dk1rAmPEhLN0'
 USERS_FILE = 'users.txt'
 CHECK_INTERVAL = 3600
 
