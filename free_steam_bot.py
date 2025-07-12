@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from telegram.ext import Updater, CommandHandler
 import time
 import os
+TOKEN = os.getenv('7684771448:AAHoZN7XEACNupV4RtCcW31dk1rAmPEhLN0')
 
 TOKEN = '7684771448:AAHoZN7XEACNupV4RtCcW31dk1rAmPEhLN0'
 USERS_FILE = 'users.txt'
